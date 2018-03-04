@@ -7,6 +7,6 @@ description = "A library for controlling LCDs on various hardware backends"
 license = "AGPLv3"
 author = "Julian Metzler"
 author_email = "pylcd@mezgr.de"
-requires = ['PIL']
+requires = ['pillow']
 url = "https://github.com/Mezgrman/pyLCD"
 keywords = "library lcd display hd44780 ks0108 interface"
